@@ -37,12 +37,15 @@
 		font-size: 1.25em;
 		border-left: 1px solid black;
 		border-bottom: 1px solid black;
+		font-weight: bold;
 	}
 	#s1{
 		background-color: #D59898;
 	}
 	#s2{
 		background-color: #C14543;
+		border-color: white;
+		color: white;
 	}
 	#s3{
 		background-color: #E5D198;
@@ -51,6 +54,7 @@
 		text-align: center;
 		font-size:1.75em;
 		margin:20px 0;
+		font-weight: bold;
 	}
 		@media screen and (max-width: 767px){
 			 .col1, .col2, .col3{
